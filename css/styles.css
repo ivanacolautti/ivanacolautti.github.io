@@ -46,6 +46,13 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+@font-face {
+	font-family: Blood Orange;
+	src: url("../webfonts/Blood-Orange-bold.otf")
+}
+
+
+
 body,
 html {
     width: 100%;
