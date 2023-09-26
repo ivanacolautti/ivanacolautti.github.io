@@ -48,7 +48,11 @@ Colors:
 /******************************/
 @font-face {
 	font-family: "Blood Orange";
-	src: url("../webfonts/Blood-Orange-bold.otf")
+	src: url("../webfonts/Blood-Orange-bold.otf");
+	url("../webfonts/Blood-Orange-bold.woff2");
+	url("../webfonts/Blood-Orange-bold.woff");
+	url("../webfonts/Blood-Orange-bold.ttf");
+	url("../webfonts/Blood-Orange-bold.eot");
 }
 
 
