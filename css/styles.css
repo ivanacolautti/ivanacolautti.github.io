@@ -86,7 +86,7 @@ body, p {
 h1 {
 	color: #ffff;
 	font-family: "Blood Orange" !important;
-    src: url("../webfonts/Blood-Orange-Bold.woff");
+    src: url("../webfonts/Blood-Orange-Bold.otf");
     letter-spacing:1px;
     font-size: 47px;
 }
@@ -2045,7 +2045,7 @@ a:hover.back-to-top {
 	.header h1 {
 		color: #ffff;
 	font-family: "Blood Orange";
-    src: url("../webfonts/Blood-Orange-Bold.woff");
+    src: url("../webfonts/Blood-Orange-Bold.otf");
     letter-spacing:1px;
     font-size: 47px;
 	}
