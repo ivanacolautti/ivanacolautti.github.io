@@ -46,16 +46,6 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
-@font-face {
-	font-family: "Blood Orange";
-	src: url("../webfonts/Blood-Orange-bold.otf") format ('embedded-opentype'),
-	url('../webfonts/Blood-Orange-bold.woff2') format ('woff'),
-	url('../webfonts/Blood-Orange-bold.woff') format ('truetype'),
-	url('../webfonts/Blood-Orange-bold.ttf') format ('truetype'),
-	url('../webfonts/Blood-Orange-bold.eot') format ('svg');
-	
-}
-
 
 
 body,
@@ -2053,8 +2043,11 @@ a:hover.back-to-top {
 	}
 
 	.header h1 {
-		font-family: "Blood Orange";
-        src: url("../webfonts/Blood-Orange-Bold.otf");
+		color: #484a46;
+	font-family: "Blood Orange";
+    src: url("../webfonts/Blood-Orange-Bold.woff");
+    letter-spacing:1px;
+    font-size: 47px;
 	}
 	/* end of header */
 
