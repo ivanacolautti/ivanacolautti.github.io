@@ -826,8 +826,8 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background:  url('../images/hero.jpg') center center no-repeat;
-    background-image: url('../images/Hero.jpg') center center no-repeat;;
+	background:  url("../images/hero.jpg") center center no-repeat;
+    background-image: url("../images/Hero.jpg") center center no-repeat;;
 	background-size: cover;
 }
 
