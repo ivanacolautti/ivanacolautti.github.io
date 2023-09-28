@@ -83,8 +83,8 @@ body, p {
 
 h1 {
 	color: #484a46;
-	font-family: Blood Orange;
-    src: url("../webfonts/Blood-Orange-Bold.woff");
+	font-family: Blood;
+   src:url("../webfonts/Bloodorange.otf");
     letter-spacing:1px;
     font-size: 47px;
 }
